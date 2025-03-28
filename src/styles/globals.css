@@ -1,0 +1,21 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-blue: #2CAEFF;
+  --color-black: #0F0F0F;
+  --color-gray: #CACACA;
+  --color-dark: #0F0F0F;
+  --color-white: #F9F9F9;
+  --color-stroke: #DFE4EA;
+
+  --text-base: 1rem;
+  --text-sm: 0.792rem;
+  --text-xs: 0.646rem;
+  --text-2xs: 0.521rem;
+  --text-3xs: 0.417rem;
+  --text-4xs: 0.333rem;
+}
+
+html {
+  font-size: 48px;
+}
